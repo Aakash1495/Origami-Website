@@ -1,1 +1,1 @@
-# Origami-Website
+# OrigamiWebsite

@@ -1,0 +1,6 @@
+.origami:hover{
+    transform: scale(0.75);
+}
+*{
+    color: white
+}
